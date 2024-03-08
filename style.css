@@ -1,10 +1,14 @@
 *{
     border: 1px solid #000;
     margin: 5px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: bold;
+    color: #317804;
 }
 
 header{
-    padding: 50px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -13,10 +17,10 @@ nav{
     text-align: center;
 }
 main{
-    padding: 28vh;
+    padding: 26vh;
     text-align: center;
 }
 footer{
-    padding: 50px;
+    padding: 30px;
     text-align: center;
 }

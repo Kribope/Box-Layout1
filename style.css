@@ -1,16 +1,13 @@
-*{
-    border: 1px solid #000;
-}
 header,nav,footer, aside,.container div{
     height: 10vh;
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
-    color: #32a512;
     font-weight: bold;
     font-size: 20px;
     font-family: system-ui;
+    border: 1px solid #000;
 }
 .container{
     display: flex;
